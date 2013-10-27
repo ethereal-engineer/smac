@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				  "SMAC - Sinewave Modulated Adjustable Cannon"
+	"version"			  "1.0"
+	"up_date"			  "10 Aug 2009"
+	"author_name"   "ancientevil"
+	"author_email"	""
+	"author_url"		"facepunch.com"
+	"info"				  "A new high-tech way to eliminate hordes of enemies :)"
+}

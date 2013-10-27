@@ -1,0 +1,17 @@
+"Default"
+{
+  "cl_smac_freq_1"    "10"
+  "cl_smac_freq_2"    "10"
+  "cl_smac_ang_1"    "30"
+  "cl_smac_ang_2"    "30"
+  "cl_smac_orb_vel_1"    "500"
+  "cl_smac_orb_vel_2"    "500"
+  "cl_smac_fwd_vel_1"    "1000"
+  "cl_smac_fwd_vel_2"    "800"
+  "cl_smac_rot_speed_1"    "20"
+  "cl_smac_rot_speed_2"    "0"
+  "cl_smac_orb_func_1"    "Cosine"
+  "cl_smac_orb_func_2"    "Cosine"
+  "cl_smac_flatmode_1"    "0"
+  "cl_smac_flatmode_2"    "1"
+}
